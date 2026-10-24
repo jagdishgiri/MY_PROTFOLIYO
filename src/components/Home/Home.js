@@ -81,7 +81,7 @@ const Home = () => {
       </section>
 
       <footer>
-        <p>&copy; 2025 Jagdish Giri. All rights reserved.</p>
+        <p>&copy; 2026 Jagdish Giri. All rights reserved.</p>
       </footer>
     </div>
   );
